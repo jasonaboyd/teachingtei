@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="selection">The Three Friends</title><!--substitute your title here-->
+        <title type="main">Poetry for Children [1809] (Abridged 1893 edition)</title>
+        <title type="digital">A Digital Editon prepared for LM8910 "Digital Publishing" (Winter 2014)</title>
+        <author>Lamb, Charles</author>
+        <author>Lamb, Mary</author>
+        <principal>Jason A. Boyd, Instructor</principal>
+        <respStmt><resp>edited and encoded by</resp><name>Jason A. Boyd</name><!--substitute your name here--></respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version <!--number-->, <!--date--></edition><!--This is for the version of the DIGITAL edition-->
+      </editionStmt>
+      <publicationStmt>
+        <publisher>L8910 Class (Winter 2014)</publisher>
+        <address><addrLine>Department of English, Ryerson University</addrLine></address>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported</licence> 
+        </availability>
+        <date><!--date of publication--></date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier n="https://archive.org/stream/poetryforchildre00lamb#page/61/mode/1up"/>
+        </msDesc>
+        <biblStruct>
+          <monogr>
+            <author> 
+              <persName>
+                <surname>Lamb</surname>, 
+                <forename type="first">Charles</forename>
+              </persName>
+            </author>
+            <author> 
+              <persName>
+                <surname>Lamb</surname>, 
+                <forename type="first">Mary</forename>
+              </persName>
+            </author>
+            <title type="selection">The Three Friends</title>
+            <title type="main">Poetry for Children</title>
+            <editor role="illustrator">
+              <persName>
+                <surname>Green</surname>
+                <forename>Winnifred</forename>
+              </persName>
+            </editor>
+            <respStmt>
+              <resp>Prefatory Note by</resp>
+              <persName>
+                <surname>Gollancz</surname>
+                <forename>Israel</forename>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>npub [London]</pubPlace>
+              <publisher>J.M. Dent &amp; Co.</publisher>
+              <date type="supplied" resp="unknown">1893</date>
+              <note>This edition contains only 38 of the 84 poems of the 1809 original.</note>
+            </imprint>
+            <biblScope type="pp" from="61" to="71"/><!--put your page numbers here-->
+            <extent><!--Example: 270 ([1-8] + 9-270) pp + advertisements [pp 271-2] + 6 image leaves--></extent><!--for info on pagination for full monographs-->
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <quotation marks="none">
+          <p>All quotation marks in the original have been removed.</p>
+          <p>Text quoted from an external source and enclosed in quotation marks have been replaced by <gi>quote</gi> tags. The default assumption is that
+            quotations are enclosed in double quotation marks; if they are enclosed in single quotation marks, <att>rend</att> with <val>sq</val>
+            (single quotation marks) is used.</p>
+          <p>Reported direct speech enclosed in quotation marks have been replaced by <gi>said</gi> tags. The default assumption is that
+            direct speech is enclosed in double quotation marks; if it is enclosed in single quotation marks, <att>rend</att> with <val>sq</val>
+            (single quotatation marks) is used.</p>
+          <p>Titles of books, periodicals, etc., enclosed in quotation marks have been replaced by <gi>title</gi> tags, with the
+            <att>rend</att> and <val>dq</val> (double quotation marks) or <val>sq</val> (single quotation marks).</p>
+          <p>Scare quotes have been replaced by <gi>soCalled</gi>.</p>
+          <p>Other occurances of quotation marks are replaced with <gi>hi</gi> and <att>rend</att> and <val>dq</val> or <val>sq</val>.</p>
+          <p>Punctuation within quotation marks that are present due to the punctuation of the main text have not been included within the above elements,
+            even when that punctuation falls within the quotation marks. It has presumed that formatting processing can insert quotations marks after any
+            punctuation immediately following one of these element tags.
+          </p>
+        </quotation>
+        <hyphenation eol="some">
+          <p>Hyphens are retained for all words hyphenated over a page break.</p>
+        </hyphenation>
+        <segmentation>
+          <p><gi>seg</gi> tags are used to enclose multiple <gi>said</gi> units that form a single unit of speech
+            or conversation. <att>type</att> is used with the values of <val>said</val> (for a speech by an individual)
+            or <val>conversation</val> for an exchange between two or more people.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change>Template created <date when-iso="2014-03-23"/> by <persName>Jason Boyd</persName></change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <front>
+      <gap reason="omitted"/>
+    </front>
+    
+    <body>
+      
+      <gap reason="omitted"/>
+      
+      <div type="selection" n="17">
+      
+        <pb n="61"/>
+        
+        <figure>
+          <graphic url="https://archive.org/stream/poetryforchildre00lamb#page/61/mode/1up"/>
+            <head type="title">THE <lb/>THREE FRIENDS</head>
+            <figDesc>The title is enclosed in a rectangular border of vines and leaves.</figDesc>
+        </figure>
+        
+        <head type="selection_number">XVII</head>
+        
+        <lg n="PFC1898_17_1.0" type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l n="PFC1898_17_1.1">THREE young maids in friendship met,</l> 
+          <l>
+            <persName key="#PFC_17_01">Mary</persName>, 
+            <persName key="#PFC_17_02">Martha</persName>, 
+            <persName key="#PFC_17_03">Margaret</persName>.
+          </l> 
+          <l>
+            <persName key="#PFC_17_03">Margaret</persName> was tall and fair,
+          </l> 
+          <l>
+            <persName key="#PFC_17_02">Martha</persName> shorter by a hair;
+          </l> 
+          <l real="+-|+-|+-|+-/">
+            If <rs type="person" key="#PFC_17_03">the first</rs> excell'd in 
+            <rhyme n="17_1.0_01" type="half" next="17_1.0_02">feature</rhyme>,
+          </l> 
+          <l real="-+|-+|-+|-+|-/">
+            <rs type="person" key="#PFC_17_02">The other's</rs> grace and ease were 
+            <rhyme n="17_1.0_02" type="half" prev="17_1.0_01">greater</rhyme>;
+          </l> 
+          <l>
+            <persName key="#PFC_17_01">Mary</persName>, though to rival loth,
+          </l> 
+          <l>In their best gifts equall'd 
+            <rs type="person" key="#PFC_17_02">
+              <rs type="person" key="#PFC_17_03">both</rs>
+            </rs>.
+          </l>
+          <l>
+            <rs type="person" key="#PFC_17_01">
+              <rs type="person" key="#PFC_17_02">
+                <rs type="person" key="#PFC_17_03">They</rs>
+              </rs>
+            </rs> a due proportion kept;
+          </l>
+          <l>
+            <persName key="#PFC_17_02">Martha</persName> mourn'd if 
+            <seg met="+-"><persName key="#PFC_17_03">Margaret</persName></seg> wept;
+          </l> 
+          <l enjamb="y">
+            <seg met="+-"><persName key="#`PFC_17_03">Margaret</persName></seg> joy'd when any good
+          </l> 
+          <l>
+            <rs key="#PFC_17_03">She</rs> of <persName key="#PFC_17_02">Martha</persName> understood;
+          </l> 
+          <l enjamb="y">
+            And in sympathy for 
+            <rs key="#PFC_17_02">
+              <rs key="#PFC_17_03">either</rs>
+            </rs>
+          </l> 
+          <l>
+            <persName key="#PFC_17_01">Mary</persName> was outdone by 
+            <rs key="#PFC_17_02">
+              <rs key="#PFC_17_03">neither</rs>
+            </rs>.
+          </l> 
+          <l>Thus far, for a happy space,</l> 
+          <l>
+            <rs key="#PFC_17_01">
+              <rs key="#PFC_17_02">
+                <rs key="#PFC_17_03">All three</rs>
+              </rs>
+            </rs> ran an even race,
+          </l> 
+          <l real="+-|+-|+-|+-/">A most constant friendship 
+            <rhyme n="17_1.0_03" type="half" next="17_1.0_04">proving</rhyme>,
+          </l>
+          <l real="+-|+-|+-|+-/">Equally beloved and 
+            <rhyme n="17_1.0_04" type="half" prev="17_1.0_03">loving</rhyme>;
+          </l>
+          <l>All 
+            <rs key="#PFC_17_01">
+              <rs key="PFC_17_02">
+                <rs key="#PFC_17_03">their</rs>
+              </rs>
+            </rs> wishes, joys, the same,</l> 
+          <l>Sisters only not in name.</l>
+        </lg>
+
+        <pb n="62"/>
+
+<!--62 POETRY FOR CHILDREN--> 
+
+        <lg n="PFC1898_17_2.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l enjamb="y">Fortune upon each one smiled</l> 
+          <l>As upon a favourite child;</l> 
+          <l enjamb="y">Well to do and well to see</l> 
+          <l>Were the parents of all three;</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Till on Martha's father crosses</l> 
+          <l real="+-|+-|+-|+-/">Brought a flood of worldly losses,</l> 
+          <l enjamb="y">And his fortunes rich and great</l> 
+          <l>Changed at once to low estate;</l> 
+          <l enjamb="y">Under which o'erwhelming blow</l> 
+          <l>Martha's mother was laid low;</l> 
+          <l>She a hapless orphan left,</l> 
+          <l>Of maternal care bereft,</l>   
+          <l>Trouble <seg met="+-">following</seg> trouble fast,</l><!--foll'wing--> 
+          <l>Lay in a sick bed at last.</l>
+        </lg> 
+
+        <lg n="PFC1898_17_3.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l enjamb="y" real="+-|+-|+-|+-/">In the depth of her affliction</l> 
+          <l enjamb="y" real="+-|+-|+-|+-/">Martha now received conviction</l> 
+          <l enjamb="y">That a true and faithful friend</l> 
+          <l>Can the surest comfort lend.</l> 
+          <l>Night and day, with friendship tried,</l> 
+          <l enjamb="y">Ever constant by her side</l> 
+          <l>Was her gentle Mary found,</l> 
+          <l>With a love that knew no bound;</l> 
+          <l real="+-|+-|+-|+-/">And the solace she imparted</l> 
+          <l real="+-|+-|+-|+-/">Saved her dying broken-hearted.</l>
+        </lg> 
+
+<!--POETRY FOR CHILDREN 63-->
+
+        <lg n="PFC1898_17_4.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l enjamb="y">In this scene of earthly things</l> 
+          <l>Not one good <seg met="-+-">unmixed</seg> springs.</l><!--un-mix-ed--> 
+          <l enjamb="y">That which had to Martha proved</l> 
+          <l enjamb="y">A sweet consolation, moved</l> 
+          <l enjamb="y">Different feelings of regret</l> 
+          <l>In the mind of Margaret.</l> 
+          <l>She, whose love was not less dear,</l> 
+          <l>Nor affection less sincere,</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">To her friend, was by occasion</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Of more distant habitation</l> 
+          <l real="+-|+-|+-|+-/">Fewer visits forced to pay her,</l> 
+          <l real="+-|+-|+-|+-/">When no other cause did stay her;</l> 
+          <l real="+-|+-|+-|+-/">And her Mary living nearer,</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Margaret began to fear her</l> 
+          <l enjamb="y">Lest her visits day by day</l> 
+          <l>Martha's heart should steal away.</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">That whole heart she ill could spare her</l> 
+          <l real="+-|+-|+-|+-/">Where till now she'd been a sharer.</l> 
+          <l>From this cause with grief she pined,</l> 
+          <l>Till at length her health declined.</l> 
+          <l>All her cheerful spirits flew,</l> 
+          <l>Fast as Martha gather'd new;</l> 
+          <l>And her sickness <seg met="+-">waxed</seg> sore,</l><!--wax-ed--> 
+          <l>Just when Martha felt no more.</l> 
+        </lg>
+
+        <pb n="64"/>
+        
+        <figure>
+          <graphic url="https://archive.org/stream/poetryforchildre00lamb#page/61/mode/1up"/>
+          <figDesc>Mary (right, standing, offering bowl and spoon, tends to her sick friend, Martha (or possibly
+            Margaret) (left, seated with shawl and book).</figDesc>
+        </figure>
+
+        <pb n="65"/>
+        
+<!--POETRY FOR CHILDREN 65--> 
+<sp>
+        <lg n="PFC1898_17_5.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l real="+-|+-|+-|+-/" enjamb="y">Mary, who had quick suspicion</l> 
+          <l real="+-|+-|+-|+-/">Of her alter'd friend's condition,</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Seeing Martha's convalescence</l> 
+          <l real="+-|+-|+-|+-/">Less demanded now her presence,</l> 
+          <l real="+-|+-|+-|+-/">With a goodness built on reason,</l> 
+          <l real="+-|+-|+-|+-/">Changed her measures with the season,</l> 
+          <l>Turn'd her steps from Martha's door,</l> 
+          <l>Went where she was wanted more;</l> 
+          <l enjamb="y">All her care and thoughts were set</l> 
+          <l>Now to tend on Margaret.</l> 
+          <l>Mary living 'twixt the <rhyme n="17_5.0_01" type="half" next="17_5.0_02">two</rhyme>,</l> 
+          <l>From her home could oftener <rhyme n="17_5.0_02" type="half" prev="17_5.0_01">go</rhyme></l> 
+          <l>Either of her friends to see</l> 
+          <l>Than they could together be.</l>
+        </lg>
+</sp>
+
+        <lg n="PFC1898_17_6.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l real="+-|+-|+-|+-/" enjamb="y">Truth explain'd is to suspicion</l> 
+          <l real="+-|+-|+-|+-/">Evermore the best physician.</l> 
+          <l>Soon her visits had <seg met="-+">the effect</seg>;</l><!--th'effect--> 
+          <l enjamb="y">All that <seg met="+-">Margaret</seg> did suspect</l><!--Marg'ret--> 
+          <l>From her fancy vanish'd clean;</l> 
+          <l>She was soon what she had been,</l> 
+          <l enjamb="y">And the colour she did lack</l> 
+          <l>To her faded cheek came back,</l> 
+          <l>Wounds which love had made her feel,</l> 
+          <l>Love alone had power to heal.</l>
+        </lg> 
+
+<!--B--> 
+
+        <pb n="66"/>
+
+<!--66 POETRY FOR CHILDREN--> 
+
+        <lg n="PFC1898_17_7.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l real="+-|+-|+-|+-/" enjamb="y">Martha, who the frequent visit</l> 
+          <l real="+-|+-|+-|+-/">Now had lost, and sore did miss it,</l> 
+          <l>With impatience waxed cross,</l><!--wax-ed--> 
+          <l>Counted <seg met="+-">Margaret's</seg> gain her loss:</l> 
+          <l enjamb="y">All that Mary did confer</l> 
+          <l>On her friend, thought due to her.</l> 
+          <l enjamb="y">In her girlish bosom 
+            <rhyme n="17_7.0_01" type="half" next="17_7.0_02">rise</rhyme>
+          </l> 
+          <l>Little foolish 
+            <rhyme n="17_7.0_02" type="half" prev="17_7.0_01">jealousies</rhyme>,
+          </l> 
+          <l>Which into such rancour wrought,</l> 
+          <l>She one day for <seg met="+-">Margaret</seg> sought;</l><!--Marg'ret--> 
+          <l>Finding her by chance alone,</l> 
+          <l>She began, with reasons shown,</l> 
+          <l enjamb="y">To insinuate a fear</l> 
+          <l>Whether Mary was sincere;</l> 
+          <l enjamb="y">Wish'd that <seg met="+-">Margaret</seg> would take heed</l><!--Marg'ret--> 
+          <l>Whence her actions did proceed.</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">For herself, she'd long been minded</l> 
+          <l real="+-|+-|+-|+-/">Not with outsides to be blinded;</l> 
+          <l real="+-|+-|+-|+-/">All that pity and 
+            <rhyme n="17_7.0_03" type="half" next="17_7.0_04">compassion</rhyme>,
+          </l> 
+          <l real="+-|+-|+-|+-/">She believed was 
+            <rhyme n="17_7.0_04" type="half" prev="17_7.0_03">affectation</rhyme>;
+          </l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">In her heart she doubted 
+            <rhyme n="17_7.0_05" type="half" next="17_7.0_06">whether</rhyme>
+          </l> 
+          <l real="+-|+-|+-|+-/">Mary cared a pin for 
+            <rhyme n="17_7.0_06" type="half" prev="17_7.0_05">either</rhyme>.
+          </l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">She could keep whole weeks at distance</l> 
+          <l real="+-|+-|+-|+-/">And not know of their existence,</l> 
+          <l>While all things remained the same;</l> 
+          <l>But when some misfortune came,</l> 
+          <l enjamb="y">Then she made a great parade</l> 
+
+        <pb n="67"/>
+          
+          <figure>
+            <graphic url="https://archive.org/stream/poetryforchildre00lamb#page/67/mode/1up"/>
+            <figDesc>Martha (left, with fan and pointing finger), suggests to Margaret (right, wearing apron)
+              that Mary's acts of kindness to both of them are insincere. Both figures are seated in front of
+              a fireplace having tea. A parasol leans against Martha's chair and a muff lays on the floor in
+              the fireground.</figDesc>
+          </figure>
+
+        <pb n="68"/>
+          
+<!--68 POETRY FOR CHILDREN--> 
+
+          <l>Of her sympathy and aid,--</l> 
+          <l>Not that she did really grieve,</l> 
+          <l>It was only <hi rend="italic">make-believe</hi>,</l> 
+          <l enjamb="y">And she cared for nothing, so</l> 
+          <l>She might her fine feelings show,</l> 
+          <l enjamb="y">And get credit on her part</l> 
+          <l>For a soft and tender heart.</l>
+        </lg> 
+
+        <lg n="PFC1898_17_8.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l>With such speeches, smoothly made,</l> 
+          <l enjamb="y">She found methods to persuade</l> 
+          <l enjamb="y">Margaret (who, being sore</l> 
+          <l>From the doubts she'd felt before,</l> 
+          <l enjamb="y">Was <seg met="-+-">prepared</seg> for mistrust)</l><!--pre-par-ed--> 
+          <l>To believe her reasons just;</l> 
+          <l enjamb="y">Quite destroy'd that comfort glad</l> 
+          <l>Which in Mary late she had;</l> 
+          <l>Made her, in experience' 
+            <rhyme n="17_8.0_01" type="half" next="17_8.0_02">spite</rhyme>,</l> 
+          <l>Think her friend a <rhyme n="17_8.0_02" type="half" prev="17_8.0_01">hypocrite</rhyme>,</l> 
+          <l>And resolve, with cruel scoff,</l> 
+          <l>To renounce and cast her off.</l>
+        </lg> 
+
+        <lg n="PFC1898_17_9.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l real="+-|+-|+-|+-/">See how good turns are rewarded!</l> 
+          <l real="+-|+-|+-|+-/">She of both is now discarded,</l> 
+          <l>Who to both had been so late</l> 
+          <l>Their support in low estate,</l> 
+          <l>All their comfort, and their stay--</l> 
+
+<pb n="69"/>
+
+<!--POETRY FOR CHILDREN 69--> 
+
+          <l>Now of both is cast away.</l> 
+          <l real="+-|+-|+-|+-/">But the league her presence cherish'd,</l> 
+          <l real="+-|+-|+-|+-/">Losing its best prop, soon perish'd;</l> 
+          <l real="+-|+-|+-|+-/">She, that was a link to either,</l> 
+          <l real="+-|+-|+-|+-/">To keep them and it together,</l> 
+          <l real="+-|+-|+-|+-/">Being gone, the two (no wonder)</l> 
+          <l real="+-|+-|+-|+-/">That were left soon fell asunder;--</l> 
+          <l>Some civilities were kept,</l> 
+          <l>But the heart of friendship slept;</l> 
+          <l>Love with hollow forms was fed,</l> 
+          <l>But the life of love lay dead:--</l> 
+          <l>A cold intercourse they held</l> 
+          <l>After Mary was expell'd.</l>
+        </lg> 
+
+        <lg n="PFC1898_17_10.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l enjamb="y">Two long years did intervene</l> 
+          <l>Since they'd either of them seen,</l> 
+          <l enjamb="y">Or by letter, any word</l> 
+          <l>Of their old companion heard,--</l> 
+          <l real="+-|+-|+-|+-/">When, upon a day once walking,</l> 
+          <l real="+-|+-|+-|+-/">Of <seg met="-+-">indifferent</seg> matters talking,</l><!--indiff'rent--> 
+          <l>They a female figure met;--</l> 
+          <l>Martha said to Margaret,</l>
+          <l n="PFC1898_17_10.09" real="+-|+-|+-|+-/" enjamb="y">
+            <hi rend="dq"/>
+            <said who="#PFC_17_02" n="17_9.0_01" next="17_9.0_02">That young maid in face does carry</said>
+          </l> 
+          <l n="PFC1898_17_10.10" real="+-|+-|+-|+-/">
+            <said who="#PFC_17_02" n="17_9.0_02" prev="17+9.0_01">A resemblance strong of Mary,</said>
+            <hi rend="dq"/>
+          </l> 
+          <l>Margaret, at nearer sight,</l> 
+          <l>Own'd her observation right;</l> 
+
+<pb n="70"/>
+
+<!--70 POETRY FOR CHILDREN--> 
+
+          <l enjamb="y">But they did not far proceed</l> 
+          <l>Ere they found 'twas she indeed.</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">She--but, ah! how changed they view her</l> 
+          <l real="+-|+-|+-|+-/">From that person which they knew her!</l> 
+          <l>Her fine face disease had scarr'd,</l> 
+          <l>And its matchless beauty marr'd:--</l> 
+          <l enjamb="y">But enough was left to trace</l> 
+          <l>Mary's sweetness--Mary's grace.</l> 
+          <l real="+-|+-|+-|+-/">When her eye did first behold them,</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">How they blush'd! but when she told them</l> 
+          <l real="+-|+-|+-|+-/">How on a sick bed she lay</l> 
+          <l>Months, while they had kept away</l> 
+          <l enjamb="y">And had no <seg met="-+-">inquiries</seg> 
+            <rhyme n="17_9.0_03" type="half" next="17_9.0_04">made</rhyme>
+          </l><!--inquir'es--> 
+          <l>If she were alive or 
+            <rhyme n="17_9.0_04" type="half" prev="17_9.0_03">dead--</rhyme>;
+          </l> 
+          <l>How, for want of a true friend,</l> 
+          <l>She was brought near to her end,</l> 
+          <l enjamb="y">And was like so to have died</l> 
+          <l>With no friend at her bedside;--</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">How the constant irritation</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Caused by fruitless expectation</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Of their coming, had extended</l> 
+          <l real="+-|+-|+-|+-/"><seg met="+-">The illness</seg>, when she might have mended,--</l><!--Th'illness--> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Then, O then, how did reflection</l> 
+          <l real="+-|+-|+-|+-/">Come on them with recollection!</l> 
+          <l>All that she had done for them,</l> 
+          <l>How it did their fault condemn!</l>
+        </lg>
+        <join target="PFC1898_17_10.09 PFC1898_17_10.09" result="speech"/>
+
+<pb n="71"/>
+
+<!--POETRY FOR CHILDREN 71--> 
+
+        <lg n="PFC1898_17_11.0"
+          type="stanza"
+          met="+-|+-|+-|+/"
+          rhyme="aa">
+          <l>But sweet Mary, still the same,</l> 
+          <l>Kindly eased them of their shame;</l> 
+          <l>Spoke to them with accents bland,</l> 
+          <l>Took them friendly by the hand;</l> 
+          <l enjamb="y">Bound them both with promise fast</l> 
+          <l>Not to speak of troubles past;</l> 
+          <l enjamb="y">Made them on the spot declare</l> 
+          <l>A new league of friendship there;</l> 
+          <l>Which, without a word of strife,</l> 
+          <l>Lasted thenceforth long as life.</l> 
+          <l enjamb="y">Martha now and Margaret</l> 
+          <l enjamb="y">Strove who most should pay the debt</l> 
+          <l real="+-|+-|+-|+-/" enjamb="y">Which they owed her, nor did vary</l> 
+          <l real="+-|+-|+-|+-/">Ever after from their Mary.</l>
+        </lg>
+       
+        <figure>
+          <graphic url="https://archive.org/stream/poetryforchildre00lamb#page/71/mode/1up"/>
+          <figDesc>A muff, like the one picture on page 67, but with a tied ribbon running through the muff.</figDesc>
+        </figure>
+       
+      </div>
+      <gap reason="omitted"/>
+    </body>
+    <back>
+      <gap reason="omitted"/>
+    </back>
+  </text>
+</TEI>
