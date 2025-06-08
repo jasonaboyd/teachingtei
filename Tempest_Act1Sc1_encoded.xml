@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="act" n="1"><!--Pope's edition--><!--&#383; &#64261;-->
+            <div type="scene" n="1.1">
+            <pb n="?"/>
+            <head type="title">THE TEMPEST</head>
+            <head type="divison">ACT I. SCENE I.</head>
+            
+            <stage type="location">On a Ship at Sea.</stage> 
+            
+               <stage type="atmospheric">A tempe&#64261;uous noi&#383;e of thunder and lightning heard:</stage>
+            <stage type="entrance">
+               <move who="#shipmaster #boatswain" type="enter"/>
+                  Enter a <persName ref="#shipmaster">
+                     <choice>
+                        <orig>Ship-ma&#64261;er</orig>
+                        <reg resp="#JAB">Shipmaster</reg>
+                     </choice>
+                  </persName>, and a
+                  <persName ref="#boatswain">Boatfwain.</persName></stage>
+            
+            <sp who="#shipmaster">
+               <speaker>MASTER.</speaker>
+            
+            <l><figure>
+               <graphic url=""/>
+                  <figDesc>An initial B</figDesc>
+            </figure><supplied>B</supplied>Oatfwain.</l></sp>
+            
+            <sp who="#boatswain">
+               <speaker>Boatf.</speaker>
+               <l>Here, mafter: what cheer?</l>
+            </sp>
+            
+            <sp who="#shipmaster">
+               <speaker>Maft.</speaker>
+               <l>Good, fpeak to th' mariners:
+                  fall to't, yarely, or we run our felves a-ground, beftir, beftir.</l>
+            </sp>
+            
+            <stage type="entrance">
+               <move who="#mariners" type="enter"/>Enter <rs type="group">Mariners</rs>.
+            </stage>
+            
+            <sp>
+               <speaker>Boatf.</speaker>
+               <l>Hey my hearts, cheerly my hearts; yare, yare; take in the top-fail; tend to th' mafter's
+            whiftle; blow 'till thou burft thy wind, if room enough.</l>
+            </sp>
+            
+            <stage type="entrance">
+               <move who="#alonso #sebastian #antonio #ferdinand #gonzalo #adrian #francisco #trinculo #stephano" type="enter"/>
+               Enter
+               <persName ref="#alonso">Alonfo</persName>,
+               <persName ref="#sebastian">Sebaftian</persName>,
+               <persName ref="#antonio">Anthonio</persName>,
+               <persName ref="#ferdinand">Ferdinand</persName>,
+               <persName ref="#gonzalo">Gonzalo</persName>,
+               and others.
+            </stage>
+            
+            <sp who="#alonso">
+               <speaker>Alon.</speaker>
+               <l>Good Boatfwain have care: where's the mafter? play the men.</l>
+            </sp>
+            
+            <fw type="signature">B 2</fw>   <fw type="catch">Boatf.</fw>
+            </div>
+         </div>
+         
+         <!--The same material as above from a modern edition
+            
+            ACT 1 SCENE 1 [On a ship at sea; a tempestuous noise of thunder and lightning heard]
+            
+            [Enter a SHIPMASTER and a BOATSWAIN severally]
+            
+            MASTER. Boatswain!
+            
+            BOATSWAIN. Here, master: what cheer?
+            
+            MASTER. Good! Speak to the mariners: fall to't yarely, or we run ourselves aground: bestir, bestir.
+            [Exit]
+            
+            [Enter MARINERS]
+            
+            BOATSWAIN. Heigh, my hearts! cheerly, cheerly, my hearts! yare, yare! Take in the topsail. Tend to
+            th' master's whistle.-Blow till thou burst thy wind, if room enough.
+            
+            [Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND, GONZALO, and OTHERS]  
+            
+            ALONSO. Good boatswain, have care. Where's the master? Play the men.  
+            
+         -->
+      </body>
+  </text>
+</TEI>

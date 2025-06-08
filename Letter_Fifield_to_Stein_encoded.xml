@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+       
+            <head rend="printed">FROM 
+               <orgName>
+                  <persName xml:id="ACFIFIELD">ARTHUR C. FIFIELD</persName>, PUBLISHER
+               </orgName>,
+               <address>
+                  <addrLine>13, CLIFFORD'S INN, LONDON, E.C.</addrLine>
+                  <addrLine>TELEPHONE 14430 CENTRAL</addrLine>
+               </address>.
+            </head>
+       
+            <opener rend="typed">
+               
+            <dateline rend="right">
+                  <date when-iso="1912-04-19">April 19, 1912</date>.
+            </dateline>
+         
+            <salute>Dear <rs type="person" ref="#GSTEIN">Madam</rs><ptr target="#GSTEIN"/></salute>,</opener>
+            
+               <p rend="typed">I <ptr target="#ACFIFIELD"/> am only one, only one, only one.
+            Only one being, one at the same time.
+            Not two, not three, only one. Only one
+            life to live, only sixty minutes in one
+            hour. Only one pair of eyes. Only one
+            brain. Only one being. Being only one,
+            having only one pair of eyes, having
+            only one time, having only one life, I
+            cannot read your <choice><orig><abbr>M.S.</abbr></orig> <expan resp="#JAB">manuscript</expan></choice> three or four
+            times. Not even one time. Only one look,
+            only one look is enough. Hardly one
+            copy would sell here. Hardly one. Hardly
+            one.</p>
+               <p rend="typed">Many thanks. I am returning the
+            <abbr>M.S.</abbr> by registered post. Only one <abbr>M.S.</abbr>
+            by one post.</p>
+            
+            
+            <closer rend="typed"><salute>Sincerely yours</salute>,
+            
+            <signed rend="written"><persName>A. C. Fifield</persName></signed>
+           
+            
+            <address>
+               <addrLine><persName xml:id="GSTEIN">Miss Gertrude Stein</persName>,</addrLine>
+               <addrLine>27 Rue de Fleurus,</addrLine>
+               <addrLine>Paris,</addrLine>
+               <addrLine>France.</addrLine>
+            </address>
+               
+            </closer>
+      </body>
+  </text>
+</TEI>
